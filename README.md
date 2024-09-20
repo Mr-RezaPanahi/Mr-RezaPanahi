@@ -4,7 +4,7 @@
 -    " 😆 I'm always learning, don't be surprised. " 
 - 💞️ I’m looking to collaborate on ... I'm not
 - 📫 How to reach me ... Telegram @Mr_RezaPanahi
-- 😄 Pronouns: ... ?
+- 😄 Pronouns: he 
 - ⚡ Fun fact: ... I was born on November 20, 2010
 
 <!---
