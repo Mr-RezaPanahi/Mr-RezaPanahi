@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Mr-RezaPanahi
-- 👀 I’m interested in ... Programming e
-- 🌱 I’m currently learning ... python
+- 👀 I’m interested in ... Programming 
+- 🌱 I’m currently learning ... python , HTML , CSS , java :
+-    " 😆 I'm always learning, don't be surprised. " 
 - 💞️ I’m looking to collaborate on ... I'm not
 - 📫 How to reach me ... Telegram @Mr_RezaPanahi
 - 😄 Pronouns: ... ?
