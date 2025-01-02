@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @Mr-RezaPanahi
-- 👀 I’m interested in ... Programming 
-- 🌱 I’m currently learning ... python , HTML , CSS , java :
+- 👋 ### Hi, I’m @Mr-RezaPanahi 
+- 👀 I’m interested in Programming 
+- 🌱 I’m currently learning  Python  ,  Web   :
 -    " 😆 I'm always learning, don't be surprised. " 
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... Telegram @Mr_RezaPanahi
-- 😄 Pronouns: he 
-- ⚡ Fun fact: ... I was born on November 20, 2010
-- 🇮🇷 I am from Iran / Ardabil
+- 💞️ I’m looking to collaborate  
+- 📫 How to reach me Telegram ' @Mr_RezaPanahi '
+- 😄 My skills : Python , C# , Wordpress
+<!---- ⚡ Fun fact: --->
+- 🇮🇷  I am from Iran / Ardabil
 - 🧠 My school : The Tizhoshan Shahid Beheshti 1 
 
 - 🥳I know that the information and portfolios of my Github page are very little, I will post more information about myself soon.
