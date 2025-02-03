@@ -23,7 +23,7 @@
 
 
 
-
+<!-- # <p align='center'>[![Hey there, I'm Reza . I'm a Python developer. Check out my work](https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/dan_bio1.gif "Dan Bamikiya")](https://danbamikiya.github.io/danBamikiya/)<p>  -->
 
 
 <!---
