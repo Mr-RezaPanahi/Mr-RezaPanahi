@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1B1CF7&center=%D9%86%D8%A7%D8%AF%D8%B1%D8%B3%D8%AA&vCenter=%D9%86%D8%A7%D8%AF%D8%B1%D8%B3%D8%AA&repeat=%D8%AF%D8%B1%D8%B3%D8%AA+%D8%A7%D8%B3%D8%AA&random=%D9%86%D8%A7%D8%AF%D8%B1%D8%B3%D8%AA&width=435&lines=Hello+%2C+Reza+Panahi;Python+Devloper)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=%D9%86%D8%A7%D8%AF%D8%B1%D8%B3%D8%AA&vCenter=%D9%86%D8%A7%D8%AF%D8%B1%D8%B3%D8%AA&repeat=%D8%AF%D8%B1%D8%B3%D8%AA+%D8%A7%D8%B3%D8%AA&random=%D9%86%D8%A7%D8%AF%D8%B1%D8%B3%D8%AA&width=435&lines=Hello+%2C+Reza+Panahi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=%D9%86%D8%A7%D8%AF%D8%B1%D8%B3%D8%AA&vCenter=%D9%86%D8%A7%D8%AF%D8%B1%D8%B3%D8%AA&repeat=%D8%AF%D8%B1%D8%B3%D8%AA+%D8%A7%D8%B3%D8%AA&random=%D9%86%D8%A7%D8%AF%D8%B1%D8%B3%D8%AA&width=435&lines=Puthon+Devloper)](https://git.io/typing-svg)
 
 
   👋  Hi, I’m @Mr-RezaPanahi 
@@ -8,12 +9,7 @@
 - 💞️ I’m looking to collaborate  
 - 📫 How to reach me Telegram ' @Mr_RezaPanahi '
 - 😄 My skills : Python , C# , Wordpress
-<!---- ⚡ Fun fact: --->
-- 🇮🇷  I am from Iran / Ardabil
-- 🧠 My school : The Tizhoshan Shahid Beheshti 1 
-
-- 🥳I know that the information and portfolios of my Github page are very little, I will post more information about myself soon.
-  
+- 
 [![My Skills](https://skillicons.dev/icons?i=html,css,cs,discord,github,py,powershell,vscodium,windows,wordpress,)](https://skillicons.dev)
 
 
@@ -21,6 +17,14 @@
 <a href="https://github.com/Mr-RezaPanahi">
     <img src="https://github-stats-alpha.vercel.app/api?username=Mr-RezaPanahi&cc=22272e&tc=37BCF6&ic=AE87FF&bc=AE87FF">
 </a>
+
+<!---- ⚡ Fun fact: --->
+- 🇮🇷  I am from Iran / Ardabil
+- 🧠 My school : The Tizhoshan Shahid Beheshti 1 
+
+- 🥳I know that the information and portfolios of my Github page are very little, I will post more information about myself soon.
+  
+
 
 
 
