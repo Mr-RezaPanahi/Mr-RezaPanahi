@@ -10,7 +10,14 @@
 - 🧠 My school : The Tizhoshan Shahid Beheshti 1 
 
 - 🥳I know that the information and portfolios of my Github page are very little, I will post more information about myself soon.
-- 
+
+
+https://github-stats-alpha.vercel.app/api?username=Mr-RezaPanahi
+
+
+
+
+
 <!---
 Mr-RezaPanahi/Mr-RezaPanahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
