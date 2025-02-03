@@ -9,21 +9,17 @@
 - 💞️ I’m looking to collaborate  
 - 📫 How to reach me Telegram ' @Mr_RezaPanahi '
 - 😄 My skills : Python , C# , Wordpress
-- 
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,cs,discord,github,py,powershell,vscode,windows,wordpress,)](https://skillicons.dev)
 
-
-
-<a href="https://github.com/Mr-RezaPanahi">
-    <img src="https://github-stats-alpha.vercel.app/api?username=Mr-RezaPanahi&cc=22272e&tc=37BCF6&ic=AE87FF&bc=AE87FF">
-</a>
-
-<!---- ⚡ Fun fact: --->
 - 🇮🇷  I am from Iran / Ardabil
 - 🧠 My school : The Tizhoshan Shahid Beheshti 1 
 
 - 🥳I know that the information and portfolios of my Github page are very little, I will post more information about myself soon.
   
+<a href="https://github.com/Mr-RezaPanahi">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Mr-RezaPanahi&cc=22272e&tc=37BCF6&ic=AE87FF&bc=AE87FF">
+</a>
 
 
 
