@@ -10,7 +10,7 @@
 - 📫 How to reach me Telegram ' @Mr_RezaPanahi '
 - 😄 My skills : Python , C# , Wordpress
 - 
-[![My Skills](https://skillicons.dev/icons?i=html,css,cs,discord,github,py,powershell,vscodium,windows,wordpress,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,cs,discord,github,py,powershell,vscode,windows,wordpress,)](https://skillicons.dev)
 
 
 
