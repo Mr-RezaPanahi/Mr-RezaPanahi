@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=%D9%86%D8%A7%D8%AF%D8%B1%D8%B3%D8%AA&vCenter=%D9%86%D8%A7%D8%AF%D8%B1%D8%B3%D8%AA&repeat=%D8%AF%D8%B1%D8%B3%D8%AA+%D8%A7%D8%B3%D8%AA&random=%D9%86%D8%A7%D8%AF%D8%B1%D8%B3%D8%AA&width=435&lines=Hello+%2C+Reza+Panahi)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=%D9%86%D8%A7%D8%AF%D8%B1%D8%B3%D8%AA&vCenter=%D9%86%D8%A7%D8%AF%D8%B1%D8%B3%D8%AA&repeat=%D8%AF%D8%B1%D8%B3%D8%AA+%D8%A7%D8%B3%D8%AA&random=%D9%86%D8%A7%D8%AF%D8%B1%D8%B3%D8%AA&width=435&lines=Puthon+Devloper)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=%D9%86%D8%A7%D8%AF%D8%B1%D8%B3%D8%AA&vCenter=%D9%86%D8%A7%D8%AF%D8%B1%D8%B3%D8%AA&repeat=%D8%AF%D8%B1%D8%B3%D8%AA+%D8%A7%D8%B3%D8%AA&random=%D9%86%D8%A7%D8%AF%D8%B1%D8%B3%D8%AA&width=435&lines=Python+Devloper)](https://git.io/typing-svg)
 
 
   👋  Hi, I’m @Mr-RezaPanahi 
