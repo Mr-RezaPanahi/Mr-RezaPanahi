@@ -4,11 +4,11 @@
 
   👋  Hi, I’m @Mr-RezaPanahi 
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning  Python  ,  Web   :
+- 🌱 I’m currently learning  Php , Css 
 -    " 😆 I'm always learning, don't be surprised. " 
 - 💞️ I’m looking to collaborate  
-- 📫 How to reach me Telegram ' @Mr_RezaPanahi '
-- 😄 My skills : Python , C# , Wordpress
+- 📫 How to reach me Telegram ' @Mr_RezaPanahi ' or Email 
+- 😄 My skills : Python , C# , Wordpress , Php , Html , Css 
 
   
   My Web Site : https://rpanahi.ir
